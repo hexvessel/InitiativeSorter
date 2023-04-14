@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InitiativeSorter</string>
+    <string name="sort">Sort</string>
+    <string name="add_character">Add Character</string>
+    <string name="delete">Delete</string>
+    <string name="next">Next</string>
+    <string name="char_name">Char name</string>
+    <string name="item_name">item_name</string>
+    <string name="dex_mod">Dex Mod</string>
+    <string name="item_dex_mod">Dex Mod</string>
+    <string name="item_hp">HP</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="sum">sum</string>
+    <string name="init_res">init res</string>
+    <string name="add_n_roll">Add n\' Roll</string>
+</resources>
